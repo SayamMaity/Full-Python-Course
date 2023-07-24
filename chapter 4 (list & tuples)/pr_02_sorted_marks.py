@@ -1,0 +1,10 @@
+m1=int(input("Enter marks 1: \n"))
+m2=int(input("Enter marks 2: \n"))
+m3=int(input("Enter marks 3: \n"))
+m4=int(input("Enter marks 4: \n"))
+m5=int(input("Enter marks 5: \n"))
+m6=int(input("Enter marks 6: \n"))
+m7=int(input("Enter marks 7: \n"))
+marks=[m1,m2,m3,m4,m5,m6,m7]
+marks.sort()
+print(marks)
